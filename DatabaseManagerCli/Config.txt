@@ -1,0 +1,8 @@
+Host = localhost
+User = root
+Pass = 
+Db = discogsArtist
+LabelsXmlPath = 
+ArtistsXmlPath = C:\Users\yoni\Desktop\dis\discogs_20170501_artists.xml
+ReleasesXmlPath = 
+MasterReleasesXmlPath = 
